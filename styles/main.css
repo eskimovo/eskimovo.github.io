@@ -399,7 +399,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text06 {
     letter-spacing: 0.025rem;
     width: calc(100% + 0.025rem);
-    font-weight: 200;
+    font-weight: 400;
     text-transform: none;
 }
 #text06 a:hover {
@@ -417,7 +417,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text07 {
     letter-spacing: 0.025rem;
     width: calc(100% + 0.025rem);
-    font-weight: 200;
+    font-weight: 400;
     text-transform: none;
 }
 #text02 {
